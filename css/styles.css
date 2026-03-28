@@ -8002,7 +8002,7 @@ textarea.form-control-lg {
 }
 
 .text-uppercase {
-  text-transform: uppercase !important;
+  text-transform: none !important;
 }
 
 .text-capitalize {
@@ -10837,7 +10837,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  text-transform: uppercase;
+  text-transform: none !important;
 }
 
 h1, .h1 {
